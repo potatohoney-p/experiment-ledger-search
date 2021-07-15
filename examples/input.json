@@ -1,0 +1,26 @@
+[
+  {
+    "id": "run-a",
+    "params": {
+      "model": "linear",
+      "rate": 0.1
+    },
+    "loss": [
+      0.8,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": "run-b",
+    "params": {
+      "model": "linear",
+      "rate": 0.01
+    },
+    "loss": [
+      0.9,
+      0.7,
+      0.5
+    ]
+  }
+]
